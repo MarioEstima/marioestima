@@ -1,6 +1,6 @@
 # Mário Estima
 
-## Full-Stack Developer | Frontend Specialist | Web & Mobile Developer
+## Full-Stack Developer | Web & Mobile Developer
 
 Desenvolvedor Full-Stack com **5 anos de experiência** na área, especializado na criação de aplicações web e mobile modernas, rápidas e escaláveis.
 
