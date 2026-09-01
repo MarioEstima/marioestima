@@ -70,7 +70,7 @@ Também desenvolvo APIs e serviços backend para suportar aplicações web e mob
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 </div>
 
-### Bancos de Dados & Sistemas de Mensageria
+### Bancos de Dados 
 
 <div style="display:inline_block">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
