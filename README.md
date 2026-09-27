@@ -2,7 +2,7 @@
 
 ## Full-Stack Developer | Web & Mobile Developer
 
-Desenvolvedor Full-Stack com **5 anos de experiência** na área, especializado na criação de aplicações web e mobile modernas, rápidas e escaláveis.
+Desenvolvedor Full-Stack com **6 anos de experiência** na área, especializado na criação de aplicações web e mobile modernas, rápidas e escaláveis.
 
 Construo produtos digitais completos, desde interfaces de alta qualidade e experiências de utilização fluidas até APIs robustas, integração com bancos de dados e sistemas escaláveis.
 
