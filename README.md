@@ -37,7 +37,7 @@ Specialized in frontend architecture, component-driven development and high-perf
 ### Mobile
 
 <p>
-<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
 </p>
@@ -51,7 +51,7 @@ Specialized in frontend architecture, component-driven development and high-perf
 ### AI
 
 <p>
-<img src="https://img.shields.io/badge/AI--Assisted%20Development-412991?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI_Assisted_Development-412991?style=for-the-badge"/>
 </p>
 
 ### Databases
