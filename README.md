@@ -4,7 +4,7 @@
 
 Frontend-focused Full-Stack Developer with 6 years of experience building fast, modern and scalable web and mobile applications.
 
-Specialized in frontend architecture, component-driven development and high-performance interfaces using React, Next.js, React Native and Flutter. Focused on building maintainable software with clean component architecture, great user experience and solid API integration.
+Specialized in frontend architecture, component-driven development and high-performance interfaces using React, Next.js, React Native, Flutter and Kotlin. Focused on building maintainable software with clean component architecture, great user experience and solid API integration.
 
 ---
 
@@ -48,12 +48,6 @@ Specialized in frontend architecture, component-driven development and high-perf
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </p>
 
-### AI
-
-<p>
-<img src="https://img.shields.io/badge/AI_Assisted_Development-412991?style=for-the-badge"/>
-</p>
-
 ### Databases
 
 <p>
@@ -85,3 +79,5 @@ Specialized in frontend architecture, component-driven development and high-perf
 Open to collaborations, freelance opportunities and innovative web and mobile projects.
 
 📧 **Email:** [marioestima21@gmail.com](mailto:marioestima21@gmail.com)
+
+🌐 **Portfolio:** [marioestima.vercel.app](https://marioestima.vercel.app/)
