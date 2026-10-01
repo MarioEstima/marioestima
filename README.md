@@ -1,54 +1,38 @@
 # Mário Estima
 
-## Full-Stack Developer | Web & Mobile Developer
+## Frontend-Focused Full-Stack Developer | Web & Mobile
 
-Desenvolvedor Full-Stack com **6 anos de experiência** na área, especializado na criação de aplicações web e mobile modernas, rápidas e escaláveis.
+Full-Stack Developer with **6 years of experience**, focused on building fast, modern and scalable web and mobile applications, with a strong emphasis on Frontend.
 
-Construo produtos digitais completos, desde interfaces de alta qualidade e experiências de utilização fluidas até APIs robustas, integração com bancos de dados e sistemas escaláveis.
+**Specialized in:**
 
-Tenho forte especialização em **Frontend**, trabalhando principalmente com React, Next.js, React Native e Flutter, sem deixar de lado o desenvolvimento Backend necessário para construir soluções completas.
-
-**Especializado em:**
-
-* React & Next.js
-* React Native & Flutter
-* UI/UX Moderna e Responsiva
-* Performance Frontend
-* Integração com APIs
-* Arquitetura de Componentes
+* Web: React & Next.js
+* Cross-Platform: React Native & Flutter
+* Native: Kotlin
+* Modern & Responsive UI/UX
+* Frontend Performance
+* API Integration
+* Component Architecture
 * TypeScript & JavaScript
+* AI-Assisted Development
 
-## Sobre Mim
+## Frontend Experience
 
-Sou um **Full-Stack Developer com forte foco em Frontend**, com 5 anos de experiência no desenvolvimento de aplicações web e mobile.
+I build modern, responsive and high-performance interfaces, focused on user experience, scalability and maintainable code.
 
-Trabalho na construção de interfaces modernas, responsivas e performáticas, transformando ideias em produtos digitais reais. Também desenvolvo APIs e sistemas backend para garantir uma integração sólida entre frontend, serviços e bases de dados.
+### Web Development
 
-Valorizo código limpo, componentização, arquitetura bem estruturada, performance e, principalmente, uma excelente experiência para o utilizador.
+React, Next.js, JavaScript and TypeScript for modern and scalable web applications.
 
-## Experiência em Frontend
+### Mobile Development
 
-Desenvolvo interfaces modernas, responsivas e performáticas, com foco em experiência do utilizador, escalabilidade e manutenção do código.
+React Native and Flutter for cross-platform applications focused on performance and user experience.
 
-### Desenvolvimento Web
+### Native Development
 
-React, Next.js, JavaScript e TypeScript para aplicações web modernas e escaláveis.
+Kotlin for native Android applications, alongside Flutter and React Native for high-quality mobile experiences.
 
-### Desenvolvimento Mobile
-
-React Native e Flutter para aplicações multiplataforma com foco em performance e experiência de utilização.
-
-## Experiência em Backend
-
-Também desenvolvo APIs e serviços backend para suportar aplicações web e mobile, com foco em performance, organização e escalabilidade.
-
-### Tecnologias
-
-<div style="display:inline_block">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastify" />
-</div>
-
-## Tecnologias que Utilizo
+## Technologies I Use
 
 ### Frontend & Mobile
 
@@ -59,25 +43,31 @@ Também desenvolvo APIs e serviços backend para suportar aplicações web e mob
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
 
 ### Backend
 
 <div style="display:inline_block">
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 </div>
 
-### Bancos de Dados 
+### AI
+
+<div style="display:inline_block">
+  <img src="https://img.shields.io/badge/AI--Assisted_Development-412991?style=for-the-badge&logo=anthropic&logoColor=white">
+</div>
+
+### Databases
 
 <div style="display:inline_block">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
-### Ferramentas & Plataformas
+### Tools & Platforms
 
 <div style="display:inline_block">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
@@ -88,20 +78,20 @@ Também desenvolvo APIs e serviços backend para suportar aplicações web e mob
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
-## Estatísticas do GitHub
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marioestima&theme=tokyonight&hide_border=true" />
 </p>
 
-## Visualização de Tecnologias
+## Technology Overview
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,nodejs,nestjs,mysql,postgres,docker,git" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,nodejs,figma,mysql,postgres,docker,git" />
 </p>
 
-## Contato
+## Contact
 
-Aberto a colaborações, oportunidades de freelas e projetos inovadores voltados para a web e mobile.
+Open to collaborations, freelance opportunities and innovative web and mobile projects.
 
 📧 **Email:** [marioestima21@gmail.com](mailto:marioestima21@gmail.com)
