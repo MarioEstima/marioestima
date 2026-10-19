@@ -69,6 +69,6 @@ Specialized in frontend architecture, component-driven development and high-perf
 
 Open to collaborations, freelance opportunities and innovative web and mobile projects.
 
-📧 **Email:** [marioestima21@gmail.com](mailto:marioestima21@gmail.com)
+**Email:** [marioestima21@gmail.com](mailto:marioestima21@gmail.com)
 
-🌐 **Portfolio:** [marioestima.vercel.app](https://marioestima.vercel.app/)
+**Portfolio:** [marioestima.vercel.app](https://marioestima.vercel.app/)
