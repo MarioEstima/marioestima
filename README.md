@@ -1,22 +1,24 @@
 # Mário Estima
 
-## Frontend Engineer | Web & Mobile Developer | UI/UX
+## Software Developer | Web & Mobile Development
 
-Frontend-focused Full-Stack Developer with 6 years of experience building fast, modern and scalable web and mobile applications.
+Software Developer with 6 years of experience building modern, scalable web and mobile applications.
 
-Specialized in frontend architecture, component-driven development and high-performance interfaces using React, Next.js, React Native, Flutter and Kotlin. Focused on building maintainable software with clean component architecture, great user experience and solid API integration.
+Focused on software development, application architecture, frontend engineering and cross-platform mobile development using React, Next.js, Flutter and Kotlin. Experienced in building maintainable applications, reusable components, responsive interfaces and reliable API integrations.
 
 ---
 
 ## Core Expertise
 
-- Frontend Architecture
-- Component-Driven Development
-- Modern & Responsive UI/UX
-- Web Performance
-- Cross-Platform Mobile
-- Native Android
+- Software Development
+- Application Architecture
+- Web Application Development
+- Mobile Application Development
+- Frontend Engineering
+- UI/UX Implementation
 - API Integration
+- Performance Optimization
+- Cross-Platform & Native Mobile
 - AI-Assisted Development
 
 ---
@@ -39,36 +41,4 @@ Specialized in frontend architecture, component-driven development and high-perf
 <p>
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-</p>
-
-### Databases
-
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-
-
----
-
-## GitHub Stats
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=marioestima&theme=tokyonight&hide_border=true)
-
----
-
-## Contact
-
-Open to collaborations, freelance opportunities and innovative web and mobile projects.
-
-**Email:** [marioestima21@gmail.com](mailto:marioestima21@gmail.com)
-
-**Portfolio:** [marioestima.vercel.app](https://marioestima.vercel.app/)
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-b
